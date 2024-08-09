@@ -1,0 +1,3 @@
+com\neo\model\Movie.class
+com\neo\repository\MovieRepository.class
+com\neo\resources\MovieResource.class
