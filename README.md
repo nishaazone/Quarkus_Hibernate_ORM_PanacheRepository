@@ -51,3 +51,6 @@ quarkus.hibernate-orm.database.generation=drop-and-create.
 - If you want to visualize your database schema and data, you can use DBeaver:
     Download and install DBeaver.
     Connect to your MySql database by providing the host (localhost), port (5432), username (username), password (password), and database name (my_db_movie).
+  
+### Tip - Make sure you have these installed on your PC and set the Path in Environment Variables
+![image](https://github.com/user-attachments/assets/3f863f9a-4431-4c94-8dde-dacd99009d12)
