@@ -1,0 +1,1 @@
+# Quarkus_Hibernate_ORM_PanacheRepository
